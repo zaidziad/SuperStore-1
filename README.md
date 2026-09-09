@@ -6,7 +6,8 @@ An interactive executive Business Intelligence dashboard designed and developed 
 ---
 
 ## 📷 Dashboard Preview
-![Superstore Sales Dashboard](images/superstore_dashboard.png)
+<img width="1652" height="926" alt="SuperStore 1" src="https://github.com/user-attachments/assets/e8598438-0b77-4595-8fd7-88d136cf4254" />
+
 
 ---
 
